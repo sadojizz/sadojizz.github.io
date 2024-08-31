@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://sadojizz.github.io/sitemap/sitemap.txt
